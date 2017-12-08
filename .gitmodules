@@ -1,0 +1,3 @@
+[submodule "bci"]
+	path = bci
+	url = git@github.com:mrdoomlittle/bci.git
